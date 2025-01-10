@@ -37,4 +37,7 @@ Python is known for being easy to learn and efficient. It's often the first prog
     </ul>
 </p>
 
-<h6>SOURCE INFORMATION : <a href="https://gemini.google.com">GEMINI AI</a> </h6>
+<h6>SOURCE INFORMATION : <a href="https://gemini.google.com">GEMINI AI</a> 
+  <br>
+  YOUTUBE CHANNEL : <a href="https://www.youtube.com/kelasterbuka">KELAS TERBUKA</a>
+</h6>
